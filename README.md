@@ -8,4 +8,4 @@ The original ThePerfectSite is really perfect; but I want to build a home page t
 
 so I add a navigation bar and some markdown style to the page and also improved the typography.
 
-Preview [The Perfect Site 1.1](https://enjoyjelly.neocities.org/.perfect1.1.html)
+Preview [The Perfect Site 1.1](https://enjoyjelly.neocities.org/_perfect1.1)
