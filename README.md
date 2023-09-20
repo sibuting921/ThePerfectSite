@@ -4,7 +4,7 @@
 
 - - -
 
-The original ThePerfectSite is really perfect; but I want to build a home page that can put some sub page/ code block
+The original ThePerfectSite is really perfect; but I want to build a home page that can put some sub page/ code block.
 
 so I add a navigation bar and some markdown style to the page and also improved the typography.
 
